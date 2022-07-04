@@ -1,6 +1,0 @@
-{
-  "extends": ["next", "prettier"],
-  "rules": {
-    "no-img-element": 0
-  }
-}
