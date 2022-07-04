@@ -1,29 +1,14 @@
-# smash-or-pass
 
-Simple Smash or pass created with React.
-Available with Pokemon list for now.
+# PokéSmash
 
+Literally Smash or Pass for all 896 Pokémon...
 
-### Environment Variables
-
-If you want to change environment variables, you just have to modify the config file found in `public/env/Config.js`
-
-### Husky
-
-if you want to enable a pre-commit hook for `prettier` and `eslint` with `husky`, run the following commands
-
-```bash
-$ cd projectRoot
-$ npx husky install
-```
+Yeah, I'm not proud of this either.
 
 
-To run the react app locally using npm, run the following commands
 
-```bash
-$ cd projectRoot
-$ npm install
-$ npm start
-$ npx json-server --watch db.json --port 8080
-```
+## Acknowledgements
+
+ - [7tv for pushing the limits of what defines an 'Emote Service'](https://7tv.app)
+ - [The AWESOME developers at PokeAPI](https://pokeapi.co/)
 
